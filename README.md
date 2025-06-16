@@ -1,5 +1,4 @@
 # Social-Media-Computing-Tutorial-10-11
-## CDS-6334 – Social Media Computing Tutorial 10 & 11
 
 ## Objectives
 The objectives of this tutorial are:
